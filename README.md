@@ -1,5 +1,5 @@
 <h1 align="center">Olá 👋, sou Gustavo Ishizawa</h1>
-<h3 align="center">Um Hacker-Ético PentesTer</h3>
+<h3 align="center">Um Hacker-Ético que ama Pentest</h3>
 
 - 🔭 Atualmente estou trabalhando em [vulnerabilidades-scan](https://github.com/shazawa/vulnerabilidades-scan)
 
