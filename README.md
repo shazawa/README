@@ -40,12 +40,6 @@ Sou um entusiasta em segurança cibernética, focado em encontrar vulnerabilidad
 
 ---
 
-## 💻 Simulação do terminal hacker:
-
-![Terminal Hacker](./seu-gif-hacker.gif)
-
----
-
 ## 📄 Saiba mais sobre minhas experiências:
 
 - [Currículo Online](https://www.canva.com/design/DAF8UXJBJYw/BEjJ-nuP-FyaH_HTKo4jmg/edit)
